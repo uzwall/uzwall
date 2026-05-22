@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Baral</h1>
-<h3 align="center">A passionate Data and Security Enthusiast</h3>
+<h3 align="center">A passionate AI  Enthusiast</h3>
 
 - 📫 How to reach me **Baraluzwal@gmail.com**
 
